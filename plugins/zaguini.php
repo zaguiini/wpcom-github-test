@@ -1,18 +1,18 @@
 <?php
 /**
- * Hello World
+ * Zaguini
  *
- * @package     HelloWorld
- * @author      Mehdi Nazari
+ * @package     Zaguini
+ * @author      Zaguini
  * @copyright   2019 Mehdi Nazari
  * @license     GPL-2.0-or-later
  *
  * @wordpress-plugin
- * Plugin Name: Hello World
- * Plugin URI:  https://mehdinazari.com/how-to-create-hello-world-plugin-for-wordpress
+ * Plugin Name: Zaguini
+ * Plugin URI:  https://mehdinazari.com/Zaguini
  * Description: This plugin prints "Hello World" inside an admin page.
  * Version:     1.0.0
- * Author:      Mehdi Nazari
+ * Author:      Zaguini
  * Author URI:  https://mehdinazari.com
  * Text Domain: hello-world
  * License:     GPL v2 or later
