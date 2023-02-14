@@ -1,3 +1,3 @@
 <?php
 
-die('xd');
+die('wassa');
