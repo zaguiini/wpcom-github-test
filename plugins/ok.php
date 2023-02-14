@@ -1,3 +1,3 @@
 <?php
 
-die('canihave');
+die('plz...');
