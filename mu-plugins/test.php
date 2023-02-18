@@ -1,5 +1,5 @@
 <?php
 
-if($_GET['die']) {
+if(isset($_GET['die'])) {
   die('it works');
 }
