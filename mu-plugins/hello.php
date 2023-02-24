@@ -2,5 +2,5 @@
 
 // Hello!
 if(isset($_GET['hello'])) {
-  die('Oh my');
+  die('Oh my!');
 }
